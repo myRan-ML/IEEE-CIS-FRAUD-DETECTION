@@ -36,7 +36,7 @@
 ### 安装步骤
 
 ```bash
-git clone https://github.com/JonMcEntee/ieee-cis-fraud-detection.git
+git clone https://github.com/myRan-ML/IEEE-CIS-FRAUD-DETECTION.git
 cd ieee-cis-fraud-detection
 pip install -r requirements.txt
 ```
