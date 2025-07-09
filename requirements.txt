@@ -1,0 +1,8 @@
+numpy==2.0.2
+pandas==2.2.2
+sklearn-compat==0.1.3
+sklearn-pandas==2.2.0
+scipy==1.15.3
+plotnine==0.14.5x
+tqdm==4.67.1
+xgboost==2.0.3
