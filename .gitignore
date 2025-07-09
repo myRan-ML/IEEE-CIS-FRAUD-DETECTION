@@ -1,1 +1,5 @@
 data/*.csv
+*.aux
+*.log
+*.out
+*.pdf
